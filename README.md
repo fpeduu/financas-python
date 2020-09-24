@@ -22,11 +22,17 @@ $ financas.exe
 
 ### Screenshots
 
-img
+##### Página inicial
+![](imgs/main-page.png)
 
-img
+##### Visualização de capital
+![](imgs/capital-page.png)
 
-img
+##### Alteração de capital
+![](imgs/add-register.png)
+
+##### Visualização de registros de alterações
+![](imgs/registers-page.png)
 
 ### Tecnologias
 - [Python](https://www.python.org/)
