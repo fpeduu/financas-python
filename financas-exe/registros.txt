@@ -1,0 +1,1 @@
+(-1000.00, "Investimento Inicial", "2020-09-18")
